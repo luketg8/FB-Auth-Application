@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Computing\.gradle\caches\modules-2\files-2.1\com.github.simbiose\Encryption\1.3.0\74b3b01b79f4f087cf78ec44399c663d571e52b3\Encryption-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74b3b01b79f4f087cf78ec44399c663d571e52b3">
+        <dex dex="C:\Users\Computing\Desktop\CloudClient\CloudClient\app\build\intermediates\pre-dexed\debug\Encryption-1.3.0-9a9776122a852367a552757babbe0473f75d7079.jar" />
+    </item>
+
+</items>
